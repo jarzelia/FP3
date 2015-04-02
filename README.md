@@ -12,7 +12,8 @@ Nathan Goss - nggoss
 Eric Wang - jarzelia
 
 ### A Team Name
-for the purpose of creating a github group
+
+Foto Bank
 
 ### Project Title
 
