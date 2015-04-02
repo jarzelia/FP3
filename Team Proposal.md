@@ -16,7 +16,7 @@ for the purpose of creating a github group
 
 ### Project Title
 
-10 words or fewer
+Photobench
 
 ### Project Concept
 
