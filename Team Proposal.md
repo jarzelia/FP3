@@ -1,7 +1,7 @@
 # FP3: Team Declaration
 DUE April 2, 2015 Thursday (2015-04-02)
 
-For full description, see the project schedule [on Piazza.][piazza]
+For full description, see the project schedule on Piazza.
 
 
 
