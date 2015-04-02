@@ -20,13 +20,14 @@ for the purpose of creating a github group
 
 ### Project Concept
 
-A Photoshop-esque picture editor, using GUIs for the purpose of mouse tracking and picture editing.  This will be several features like red-eye removal, and cutting/cropping of images.
+A Photoshop-esque picture editor, using GUIs for the purpose of mouse tracking and picture editing.  This will have several features like red-eye removal, and cutting/cropping of images.
 
 ### Libraries You Plan to Use 
 
-[GUI][GUI]
+* [GUI][GUI]
+* [Images/flomap][Imgs]
 
 
 <!-- Links -->
 [GUI]: http://docs.racket-lang.org/gui/index.html
-
+[Imgs]: http://docs.racket-lang.org/images/flomap_title.html
