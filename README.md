@@ -13,7 +13,7 @@ Eric Wang - jarzelia
 
 ### A Team Name
 
-Foto Bank
+FotoBank
 
 ### Project Title
 
