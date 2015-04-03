@@ -21,7 +21,7 @@ Photobench
 
 ### Project Concept
 
-A Photoshop-esque picture editor, using GUIs for the purpose of mouse tracking and picture editing.  This will have several features like red-eye removal, and cutting/cropping of images.
+A Photoshop-esque picture editor, using GUIs for the purpose of mouse tracking and picture editing.  This will have several features like red-eye removal, filtering colors, and cutting/cropping of images.
 
 ### Libraries You Plan to Use 
 
